@@ -6,10 +6,10 @@
 name: David Gray Widder
 
 # Short bio or description (displayed in the header)
-description: Computer Scientist
+description: Examining epistemic and political economic systems in AI toward toward critical, accountable computing. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/portrait.jpg
+avatar: /images/portrait-newererer-crop.jpg
 
 #
 # Flags below are optional
@@ -20,11 +20,11 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: dwidder@uoregon.edu
+  email: dwidder@cmu.edu
   facebook:
   flickr:
   github: dwidder
-  instagram:
+  instagram: davidthewid
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon

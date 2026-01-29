@@ -4,21 +4,17 @@ title: Contact
 permalink: /contact/
 ---
 
-Feel free to contact me with questions, research ideas, job offers, or jokes!
+Email: [david.g.widder@gmail.com](david.g.widder@gmail.com)
 
-Office: Wean 5119
+<!-- Call or text: [(541) 870-5750](tel:541-870-5750) -->
 
-Email: [dwidder@cmu.edu](mailto:dwidder@cmu.edu)
+<!-- Skype: <a href="skype:david.widder?add">david.widder</a> -->
+<!-- 
+Mail:
 
-Call or text: [(541) 870-5750](tel:541-870-5750)
-
-Skype: <a href="skype:david.widder?add">david.widder</a>
-
-Snail mail:
-
-    David Gray Widder
-    Carnegie Mellon University
-    The Institute for Software Research
-    Wean Hall 5216
-    5000 Forbes Avenue
-    Pittsburgh, PA 15213  
+> David Gray Widder  
+> Carnegie Mellon University  
+> ISR - TCS Hall 430  
+> 4665 Forbes Avenue  
+> Pittsburgh, PA 15213  
+ -->
