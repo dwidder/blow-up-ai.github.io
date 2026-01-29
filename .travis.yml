@@ -1,0 +1,23 @@
+language: ruby
+rvm:
+- 2.1.1
+before_install:
+- git config --global user.email "vasilescu@gmail.com"
+- git config --global user.name "Bogdan Vasilescu"
+install:
+- bundle install
+branches:
+  only:
+  - develop
+script:
+- bundle exec rake deploy
+notifications:
+  email: false
+deploy:
+  target-branch: master
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master
